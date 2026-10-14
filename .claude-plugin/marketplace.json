@@ -1,0 +1,13 @@
+{
+  "name": "study-plan",
+  "owner": {
+    "name": "saiprashanth802"
+  },
+  "plugins": [
+    {
+      "name": "study-plan",
+      "source": "./",
+      "description": "Study-session coach for any subject, with plan and session templates."
+    }
+  ]
+}
